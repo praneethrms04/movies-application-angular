@@ -1,0 +1,11 @@
+.formstyle {
+  border: 1px solid black;
+  padding: 30px;
+  border-radius: 10px;
+}
+.pointer {
+  cursor: pointer;
+}
+.danger-box{
+  border: 1px solid red;
+}
